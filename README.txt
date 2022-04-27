@@ -1,7 +1,7 @@
 Erik Macik
 esmacik@miners.utep.edu
 Assignment 1 - SMTP
-
+Fall 2020
 
 USAGE FOR Macik_EmailClient.py
 
